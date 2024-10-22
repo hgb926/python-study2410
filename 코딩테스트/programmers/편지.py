@@ -1,0 +1,1 @@
+solution = lambda msg: len(msg) * 2
